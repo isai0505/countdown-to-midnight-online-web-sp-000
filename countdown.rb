@@ -9,7 +9,3 @@ end
 end
 
 puts "HAPPY NEW YEAR!"
-
-countdown_with_sleep(sleep)
-
-end
